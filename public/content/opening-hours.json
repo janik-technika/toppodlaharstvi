@@ -1,0 +1,46 @@
+{
+  "days": [
+    {
+      "day": "Pondělí",
+      "morning": "08:00-12:00",
+      "afternoon": "13:00-17:00",
+      "closed": false
+    },
+    {
+      "day": "Úterý",
+      "morning": "08:00-12:00",
+      "afternoon": "13:00-17:00",
+      "closed": false
+    },
+    {
+      "day": "Středa",
+      "morning": "08:00-12:00",
+      "afternoon": "13:00-17:00",
+      "closed": false
+    },
+    {
+      "day": "Čtvrtek",
+      "morning": "08:00-12:00",
+      "afternoon": "13:00-17:00",
+      "closed": false
+    },
+    {
+      "day": "Pátek",
+      "morning": "08:00-12:00",
+      "afternoon": "13:00-15:00",
+      "closed": true
+    },
+    {
+      "day": "Sobota",
+      "morning": "",
+      "afternoon": "",
+      "closed": true
+    },
+    {
+      "day": "Neděle",
+      "morning": "",
+      "afternoon": "",
+      "closed": true
+    }
+  ]
+}
