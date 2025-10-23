@@ -2,14 +2,14 @@
   "days": [
     {
       "day": "Pondělí",
-      "morning": "09:.0-11:30  ",
+      "morning": "09:00-11:30  ",
       "afternoon": "12:30-16:00",
       "closed": false
     },
     {
       "day": "Úterý",
-      "morning": "08:00-12:00",
-      "afternoon": "13:00-17:00",
+      "morning": "09:00-11:30",
+      "afternoon": "12:30-16:00",
       "closed": false
     },
     {
